@@ -360,4 +360,3 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 
 ---
 
-Se quiser, posso te mandar agora **os diagramas prontos (bonitos)** pra você só colocar no GitHub e entregar 👍
