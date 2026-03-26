@@ -3,7 +3,9 @@
 **Sistema Integrado de Gestão de Farmácia — MVP Definido pelo Estudante**
 
 Aluno: Aline de Souza Fragoso
+
 RA: 24000921
+
 Data: 26/03/2026
 
 ---
