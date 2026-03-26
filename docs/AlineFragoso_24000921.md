@@ -139,6 +139,9 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 * **Include:** —
 * **Extend:** —
 
+<img width="353" height="477" alt="image" src="https://github.com/user-attachments/assets/74ba7145-8254-4350-9ff8-f8ebb5e45cf0" />
+
+
 ---
 
 ## **UC02 — Consultar Produto**
@@ -162,6 +165,9 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 
 * **Include:** —
 * **Extend:** —
+
+<img width="426" height="355" alt="image" src="https://github.com/user-attachments/assets/a03849b0-b9b7-4b7f-a9a9-e54af5510eb5" />
+
 
 ---
 
@@ -190,6 +196,9 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 * **Include:** Consultar produto, Verificar estoque
 * **Extend:** Venda a prazo, Cadastro de cliente
 
+<img width="351" height="651" alt="image" src="https://github.com/user-attachments/assets/ee424197-029e-496e-8069-f4049e11c7b8" />
+
+
 ---
 
 ## **UC04 — Cadastrar Cliente**
@@ -213,6 +222,8 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 
 * **Include:** —
 * **Extend:** Realizar venda
+
+<img width="289" height="477" alt="image" src="https://github.com/user-attachments/assets/6f5ef7d0-44b9-4981-9cdd-560cc49f43d9" />
 
 ---
 
@@ -238,6 +249,9 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 * **Include:** Gerar conta a receber
 * **Extend:** Realizar venda
 
+<img width="426" height="410" alt="image" src="https://github.com/user-attachments/assets/fc4a0b55-702e-4414-9365-454c2b0ab23f" />
+
+
 ---
 
 ## **UC06 — Verificar Estoque**
@@ -261,6 +275,8 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 
 * **Include:** —
 * **Extend:** —
+
+<img width="374" height="367" alt="image" src="https://github.com/user-attachments/assets/fdeb5a35-bc06-4d84-9798-c1109a478b9f" />
 
 ---
 
@@ -286,6 +302,8 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 * **Include:** —
 * **Extend:** —
 
+<img width="315" height="367" alt="image" src="https://github.com/user-attachments/assets/68e7c81f-ad54-4900-84c5-f0d44b8c096f" />
+
 ---
 
 ## **UC08 — Gerar Conta a Receber**
@@ -309,6 +327,8 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 
 * **Include:** —
 * **Extend:** Venda a prazo
+
+<img width="362" height="367" alt="image" src="https://github.com/user-attachments/assets/3dc9ac92-33e5-441f-8bb3-27bcb630e68f" />
 
 ---
 
@@ -334,6 +354,8 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 * **Include:** —
 * **Extend:** —
 
+<img width="370" height="367" alt="image" src="https://github.com/user-attachments/assets/ee1ba15c-1838-4b32-8d12-d0b55a8f964f" />
+
 ---
 
 ## **UC10 — Gerenciar Clientes**
@@ -358,5 +380,9 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 * **Include:** —
 * **Extend:** —
 
+<img width="405" height="367" alt="image" src="https://github.com/user-attachments/assets/a0b65392-8e00-4b3d-9740-108f9c11cf2b" />
+
 ---
+
+<img width="426" height="245" alt="image" src="https://github.com/user-attachments/assets/e69fbc3d-7ca9-4f10-b35d-3253a82404a0" />
 
