@@ -110,6 +110,8 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 * Cadastro de cliente → realizar venda
 * Gerar conta a receber → venda a prazo
 
+<img width="426" height="245" alt="image" src="https://github.com/user-attachments/assets/e69fbc3d-7ca9-4f10-b35d-3253a82404a0" />
+
 ---
 
 # 6. Documentação dos Casos de Uso
@@ -383,6 +385,3 @@ Escolhi isso porque a venda é o principal processo da farmácia. Se essa parte 
 <img width="405" height="367" alt="image" src="https://github.com/user-attachments/assets/a0b65392-8e00-4b3d-9740-108f9c11cf2b" />
 
 ---
-
-<img width="426" height="245" alt="image" src="https://github.com/user-attachments/assets/e69fbc3d-7ca9-4f10-b35d-3253a82404a0" />
-
